@@ -1,3 +1,7 @@
+body {
+  background-color: #2f3035;
+}
+
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -7,6 +11,10 @@
 header {
   background-color: blue;
   height: 110px;
+}
+header img {
+  width: 150px;
+  height: 100px;
 }
 
 nav {
