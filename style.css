@@ -1,5 +1,13 @@
+/* html {
+  height: 100%;
+} */
+
 body {
-  background-color: #2f3035;
+  background-color: #1d1e1f6b;
+  background: url(images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .container {
@@ -18,8 +26,13 @@ header img {
 }
 
 nav {
-  background-color: red;
+  background-color: rgba(0, 0, 0, 0.322);
   height: 40px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
 }
 
 main {
